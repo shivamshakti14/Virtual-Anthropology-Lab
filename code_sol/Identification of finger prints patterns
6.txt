@@ -1,0 +1,4 @@
+2 Ranjan = Anjan
+2 Deka = Dela
+3 Routledge = Rutledge
+4 jrank = rank

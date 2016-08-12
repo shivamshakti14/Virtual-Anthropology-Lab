@@ -1,0 +1,3 @@
+2 chepa = cheap
+4 chepa = cheap
+5 Chepa = Cheap

@@ -1,0 +1,6 @@
+8 figure1 = figure
+8 raidal = radial
+9 triadii = triarii
+11 triadii = triarii
+21 figure2 = figure
+24 Figure2 = Figure

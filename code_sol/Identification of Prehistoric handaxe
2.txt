@@ -1,0 +1,7 @@
+2 Handaxe = Handaxes
+2 erectus = rectus
+3 Acheul = Ache
+3 handaxe = handaxes
+3 handaxe = handaxes
+4 handaxe = handaxes
+4 handaxe = handaxes
