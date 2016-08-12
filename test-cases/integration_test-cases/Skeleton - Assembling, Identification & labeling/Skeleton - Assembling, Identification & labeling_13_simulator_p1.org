@@ -1,0 +1,27 @@
+
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:4GB RAM , 
+  - Processor:i5,
+
+* Objective
+  - To perform the Experiment of the Logic Gates experiment
+
+* Pre conditions
+  - Refer to first test case Skeleton - Assembling, Identification & labeling_01_usability_smk.org 
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Refer to Skeleton - Assembling, Identification & labeling_12_simulator_smk.org
+  2. Click on "  1. Skeleton-Assembling    Click Here............" link
+  3. Complete the picture . Click on the "Submit" button.
+
+* Expected result
+  1.Refer to   Skeleton - Assembling, Identification & labeling_12_simulator_smk.org
+  2. If the diagram you make is wrong then it will show 'Check it again ' . 
+  3. If your diagram is correct it will show 'Good Job!'.
+
+* Review comments

@@ -1,0 +1,26 @@
+* Author: SHIVAM SHAKTI
+* Date Created: 23 June 2016
+* Environment
+  - OS: Ubuntu-14.04
+  - Browsers: Firefox-42.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:4GB RAM , 
+  - Processor:i5
+
+* Objective
+  - To view ,take the quiz and then submit the quiz of “Hunting, Fishing, Gathering Tools” experiment
+
+* Pre conditions
+  - Refer to first test case Hunting, Fishing, Gathering Tools_01_usability_smk.org
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Refer to Hunting, Fishing, Gathering Tools_04_quiz_p1.org
+  2. In the quiz select an option only for one question and then click on submit button
+
+* Expected result
+  1. Refer to Hunting, Fishing, Gathering Tools_04_quiz_p1.org
+  2. Result should be displayed for that question and wrong message to be displayed for the other questions.
+
+* Review comments

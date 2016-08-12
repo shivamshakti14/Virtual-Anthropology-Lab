@@ -1,0 +1,27 @@
+* Author: SHIVAM SHAKTI
+* Date Created: 21 June 2016
+* Environment
+  - OS: Ubuntu-14.04
+  - Browsers: Firefox-42.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:4GB RAM , 
+  - Processor:i5
+
+* Objective
+  - To view ,take the quiz and then cancel the quiz of “Obtain the main line formula” experiment
+
+* Pre conditions
+  - Refer to first test case Obtain the main line formula_01_usability_smk.org
+* Post conditions
+   - Nil
+* Test Steps
+  1. Refer to Obtain the main line formula_04_quiz_p1.org
+  2. Select the correct answer using the corresponding radio buttons and Click on the cancel button
+  
+
+* Expected result
+  1. Refer to 'Obtain the main line formula_04_quiz_p1.org'
+  2. Answers selected radio buttons should get unselected.
+  
+
+* Review comments

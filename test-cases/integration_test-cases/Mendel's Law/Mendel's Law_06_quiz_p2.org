@@ -1,0 +1,28 @@
+* Author: SHIVAM SHAKTI
+* Date Created: 24 June 2016
+* Environment
+  - OS: Ubuntu-14.04
+  - Browsers: Firefox-42.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:4GB RAM , 
+  - Processor:i5
+
+* Objective
+  - To view ,take the quiz and then submit the quiz of “Mendel's Law” experiment
+
+* Pre conditions
+  - Refer to first test case Mendel's Law_01_usability_smk.org
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Refer to  'Mendel's Law_04_quiz_p1.org'
+  2. Select the correct answer using the corresponding radio buttons and Click on the submit button
+  3. The options should be validated with the backend database
+
+* Expected result
+  1. Refer to 'Mendel's Law_04_quiz_p1.org'
+  2. If the selected option is correct a tick mark should be displayed indicating that the selected answer is correct.
+
+* Review comments
+  For question 7 and 8 tick mark do not appear in case of correct answers.

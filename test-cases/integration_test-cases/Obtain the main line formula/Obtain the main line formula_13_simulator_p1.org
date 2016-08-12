@@ -1,0 +1,27 @@
+* Author: SHIVAM SHAKTI
+* Date Created: 21 June 2016
+* Environment
+  - OS: Ubuntu-14.04
+  - Browsers: Firefox-42.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:4GB RAM , 
+  - Processor:i5
+
+* Objective
+  - To perform the Experiment of the "Obtain the main line formula" experiment
+
+* Pre conditions
+  - Refer to first test case Obtain the main line formula_01_usability_smk.org 
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Refer to Obtain the main line formula_12_simulator_smk.org
+  2. Arrange the positions of 'a','b','c','d'.
+  3. click next.
+
+* Expected result
+  1.Refer to   Calculation of Indices_12_simulator_smk.org
+  2. If the placement is correct you will get correct else you will get 'Check it again'
+  
+* Review comments

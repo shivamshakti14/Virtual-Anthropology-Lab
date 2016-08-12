@@ -1,0 +1,29 @@
+* Author: SHIVAM SHAKTI
+* Date Created: 20 June 2016
+* Environment
+  - OS: Ubuntu-14.04
+  - Browsers: Firefox-42.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:4GB RAM , 
+  - Processor:i5
+
+* Objective
+  - To perform the Experiment of the "Calculation of Indices" experiment
+
+* Pre conditions
+  - Refer to first test case Calculation of Indices_01_usability_smk.org 
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Refer to Calculation of Indices_12_simulator_smk.org
+  2. Click on 1st part "Craniel Index"
+  3. Measure the distance using the ruler given then click on the arrow given below.
+  4. FIll in the blanks . Click on the "Calculate" button.
+
+* Expected result
+  1.Refer to   Calculation of Indices_12_simulator_smk.org
+  2. If the value you calculated is wrong then it will show 'Incorrect result ' and then if you enter some value into the new box and click submit it will show "wrong!".
+  3.If the value you calculated is correct then it will show 'correct result ' and then if you enter correct value into the new box and click submit it will show "correct".
+  
+* Review comments

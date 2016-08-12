@@ -1,0 +1,28 @@
+* Author: SHIVAM SHAKTI
+* Date Created: 23 June 2016
+* Environment
+  - OS: Ubuntu-14.04
+  - Browsers: Firefox-42.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:4GB RAM , 
+  - Processor:i5
+
+* Objective
+  - To perform the Experiment of the "Hunting, Fishing, Gathering Tools" experiment
+
+* Pre conditions
+  - Refer to first test case Hunting, Fishing, Gathering Tools_01_usability_smk.org 
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Refer to Hunting, Fishing, Gathering Tools_12_simulator_smk.org
+  2. click on Identification of fishing implements
+  3 make the figure and click next
+  4 Click the regions of the "Chepa" through which fishes can enter..
+
+* Expected result
+  1.Refer to   Hunting, Fishing, Gathering Tools_12_simulator_smk.org
+  2. If the answer is correct you will get correct else you will get 'wrong'
+  
+* Review comments

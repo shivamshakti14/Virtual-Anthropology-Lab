@@ -1,0 +1,33 @@
+* Author: SHIVAM SHAKTI
+* Date Created: 24 JUNE 2016
+* Environment
+  - OS: Ubuntu-14.04
+  - Browsers: Firefox-42.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:4GB RAM , 
+  - Processor:i5
+
+* Objective
+  - To perform the Experiment of the Skeleton - Assembling, Identification & labeling experiment
+
+* Pre conditions
+  - 1. Open the url vlabs.ac.in and vlabs home page is displayed 
+ 
+    2. Click on IIT-Guwahati and a list of labs is displayed on the screen 
+  
+    3. Select Virtual Anthropology Lab, a home page is displayed and click on List of experiments link,  where a list of experiments is displayed on the screen
+  
+    4. Select  "Skeleton - Assembling, Identification & labeling" experiment.
+* Post conditions
+   - To check simulator of Skeleton - Assembling, Identification & labeling
+* Test Steps
+  1. Click on the Simulator link
+  2. Click on "Skeleton_Assembling", "Identification and labeling of Bones in a Skeleton" link
+  3. Click on the "Simulate" button.
+
+* Expected result
+  1. Simulator page is opened.
+  2. The experiment page is displayed on the screen.
+  3. A plot showing the output result is displayed.
+
+* Review comments
